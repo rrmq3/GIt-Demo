@@ -7,7 +7,7 @@ public class PrintWorld {
 
     public static void main(String[]args)
     {
-        System.out.println("My first print statement:  " + name); //Hello by me
+        System.out.println("My first print statement:  " + name);//Hello by other user
     }
 }
 //Feature 1 test
